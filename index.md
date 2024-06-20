@@ -17,7 +17,7 @@ simple democratic process outlined below.
     ranked choice vote.  A fourth option of none will be offered as a choice
     when voting.  If none wins, then this process starts over with three new states.
  5. The winning state is granted a budget by congress and given 10 years to
-    build its new wonder and allocate land for the new national park.
+    build its new wonder and acquire land for the new national park.
  6. During the 10 years while the winning state is toiling away, the selection
     process for the next state can start.
 
