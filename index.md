@@ -2,9 +2,9 @@
 layout: home 
 ---
 
-Hey America, lets build 50 wonders in new national parks over the next 500
-years. A wonder is an enormous work of art.  We can do this following the simple
-democratic process outlined below.
+Hey America, over the next 500 years lets build 50 wonders in new national
+parks. A wonder is an enormous work of art.  We can do this following the
+simple democratic process outlined below.
 
  1. In a ceremony in the capital building overseen by the senate the president
     randomly picks three state names from a hat.
