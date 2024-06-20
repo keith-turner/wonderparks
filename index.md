@@ -10,9 +10,9 @@ simple democratic process outlined below.
     randomly picks three state names from a hat.
  2. Following their own democratic process the three states each create a proposal
     for a new national park in the state with a wonder in it.
- 3. Working together the Congressional Budget Office and U.S. Army Corp of
-    Engineers will asses the cost, viability, and durability of each proposal
-    and publish a report.
+ 3. Working together the Congressional Budget Office, U.S. Army Corp of
+    Engineers, and National Park Service will asses the cost, viability, and
+    durability of each proposal and publish a report.
  4. A national vote will be held to select one of the states proposals using a
     ranked choice vote.  A fourth option of none will be offered as a choice
     when voting.  If none wins, then this process starts over with three new states.
